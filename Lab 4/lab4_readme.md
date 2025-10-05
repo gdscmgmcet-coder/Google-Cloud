@@ -16,12 +16,9 @@ sudo chmod +x GSP872.sh
 Use the following script for the challenge lab. This script contains the specific commands needed to pass the challenge scenario.
 
 ```
-# Download the challenge lab script
 curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Getting%20Started%20with%20API%20Gateway%20Challenge%20Lab/techcps109.sh
 
-# Make the script executable
 sudo chmod +x techcps109.sh
 
-# Run the script
 ./techcps109.sh
 ```
