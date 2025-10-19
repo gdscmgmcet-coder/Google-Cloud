@@ -1,6 +1,6 @@
-# Get Started with The Basics of Google Cloud Compute: Challenge Lab
+# Get Started with Host a Web App on Google Cloud Using Compute Engine Lab
 
-This file contains the necessary commands to quickly complete the "The Basics of Google Cloud Compute: Challenge Lab" on Google Cloud Skills Boost.
+This file contains the necessary commands to quickly complete the "Host a Web App on Google Cloud Using Compute Engine Lab" on Google Cloud Skills Boost.
 
 # Commands 
 
